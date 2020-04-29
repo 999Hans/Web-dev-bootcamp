@@ -33,7 +33,7 @@ h3 {
 
 .profile p,
 .contact-me p {
-  width: 50%;
+  width: 40%;
   margin: 30px auto;
   line-height: 2;
 }
@@ -156,4 +156,6 @@ hr {
 .bottom-container p {
   margin-top: 40px;
   margin-bottom: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
